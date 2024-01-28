@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paper129
-- 👀 I’m interested in Python, Machine Learning
-
+- 👀 Experienced in Java, Python, Node.js development
+- 📍 Based in Toronto, ON 
 
